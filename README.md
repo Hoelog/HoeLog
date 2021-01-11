@@ -3,7 +3,7 @@
 <!--
 **Hoelog/HoeLog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[![Hoelog's github stats](https://github-readme-stats.vercel.app/api?username=Hoelog)](https://github.com/Hoelog/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Hoelog&hide=contribs,prs)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
